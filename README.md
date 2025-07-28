@@ -21,7 +21,7 @@ To develop a comprehensive API automation suite that:
 
 * Assertions validate:
 
-    - Response status codes (200, 201, 404, 422, etc.)
+    - Response status codes (200, 404, 422)
 
     - Content-type headers
 
